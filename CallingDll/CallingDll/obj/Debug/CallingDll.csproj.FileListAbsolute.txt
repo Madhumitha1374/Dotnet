@@ -1,0 +1,10 @@
+C:\Users\madhu\source\repos\CallingDll\CallingDll\bin\Debug\CallingDll.exe.config
+C:\Users\madhu\source\repos\CallingDll\CallingDll\bin\Debug\CallingDll.exe
+C:\Users\madhu\source\repos\CallingDll\CallingDll\bin\Debug\CallingDll.pdb
+C:\Users\madhu\source\repos\CallingDll\CallingDll\bin\Debug\ClassLibrary2.dll
+C:\Users\madhu\source\repos\CallingDll\CallingDll\bin\Debug\ClassLibrary2.pdb
+C:\Users\madhu\source\repos\CallingDll\CallingDll\obj\Debug\CallingDll.csproj.AssemblyReference.cache
+C:\Users\madhu\source\repos\CallingDll\CallingDll\obj\Debug\CallingDll.csproj.CoreCompileInputs.cache
+C:\Users\madhu\source\repos\CallingDll\CallingDll\obj\Debug\CallingDll.csproj.Up2Date
+C:\Users\madhu\source\repos\CallingDll\CallingDll\obj\Debug\CallingDll.exe
+C:\Users\madhu\source\repos\CallingDll\CallingDll\obj\Debug\CallingDll.pdb
